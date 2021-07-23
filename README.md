@@ -1,6 +1,6 @@
-# TEXT-ISH
+# TextAide
 
-This repo is concerned with NLP tasks such as a text summarization tool.
+A simple text summarization tool.
 
 ## Technologies
  - Python
